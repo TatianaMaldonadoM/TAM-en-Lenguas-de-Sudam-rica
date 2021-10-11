@@ -1,0 +1,64 @@
+iso-639-3,name,value,description,latitude,longitude,family
+agr,Aguaruna,AFF,affix,-5.30044,-77.92179,Chicham
+apu,Apurinã,N,no,-8.21692,-66.77141,Arawakan
+arh,Arhuaco,N,no,10.70184,-73.63629,Chibchan
+kwi,Awa-Cuaiquer,AFF,affix,1.216525,-78.340135,Barbacoan
+brg,Baure,N,no,-13.12775,-64.18381,Arawakan
+boa,Bora,N,no,-2.91467,-68.90929,Boran
+bor,Bororo,N,no,-16.60295,-55.20043,Bororoan
+ram,Canela,N,no,-6.10712,-45.1299,Nuclear-Macro-Je
+cav,Cavineña,AFF,affix,-13.35441,-66.62773,Pano-Tacanan
+ayr,Central Aymara,N,no,-17,-68.5,Aymaran
+cbg,Chimila,AFF,affix,10.19016,-74.25585,Chibchan
+cod,Cocama-Cocamilla,N,no,-4.5,-74,Tupian
+cub,Cubeo,N,no,1.32382,-70.193935,Tucanoan
+quz,Cusco Quechua,?,unknown,-14.08527,-71.76625,Quechuan
+des,Desano,N,no,0.58157,-69.495545,Tucanoan
+kwa,Dâw,N,no,-0.1177,-67.29341,Nadahup
+eme,Emerillon,N,no,3.23694,-52.36986,Tupian
+hix,Hixkaryána,AFF,affix,-0.16265,-58.80153,Cariban
+qub,Huallaga Huánaco Quechua,AFF,affix,-9.57135,-75.59401,Quechuan
+jup,Hupdë,N,no,0.58622,-69.835915,Nadahup
+qvi,Imbabura Highland Quichua,N,no,0.31776,-78.37286,Quechuan
+ito,Itonama,N,no,-12.80431,-64.35748,Itonama
+jaa,Jamamadí,N,no,-7.62223,-66.56619,Arawan
+kgp,Kaingang,PAR,particle,-27.76708,-52.53937,Nuclear-Macro-Je
+kay,Kamayurá,N,no,-12.26606,-53.46514,Tupian
+kxo,Kanoê,REP,repetition,-12.17894,-64.58121,Kanoe
+ktn,Karitiâna,N,no,-9.37937,-64.15219,Tupian
+arr,Karo (Brazil),N,no,-10.33424,-61.56908,Tupian
+xwa,Kwaza,N,no,-11.66666667,-61.18333333,Kwaza
+lec,Leco,AFF,affix,-15.00921,-67.88181,Leko
+wmd,Mamaindé,N,no,-12.986439,-60.101072,Nambiquaran
+arn,Mapudungun,N,no,-38.73917,-71.27701,Araucanian
+mcf,Matsés,N,no,-5.739145,-72.628105,Pano-Tacanan
+moc,Mocoví,N,no,-28.09699,-60.41448,Guaicuruan
+cas,Mosetén,N,no,-14.64448,-67.83756,Moseten-Chimane
+mzp,Movima,N,no,-13.81152,-65.63482,Movima
+myr,Muniche,AFF,affix,-5.80546,-76.28113,Muniche
+yrl,Nhengatu,CLI,clitic,1.045026667,-66.96455333,Tupian
+shb,Ninam,AFF,affix,4.038935,-62.780115,Yanomamic
+emp,Northern Emberá,AFF,affix,7.12761,-77.57396,Chocoan
+pbh,Panare,AFF,affix,6.95035,-65.84825,Cariban
+pab,Parecís,AFF,affix,-14.59295,-57.40595,Arawakan
+plg,Pilagá,N,no,-25.00585,-60.15372,Guaicuruan
+pui,Puinave,CLI,clitic,3.92974,-67.6886,Puinave
+pbb,Páez,STEM,stem,2.61516,-76.31254,Paez
+rkb,Rikbaktsa,N,no,-11.18865,-58.19424,Nuclear-Macro-Je
+sae,Sabanê,N,no,-12.98572,-60.33498,Nambiquaran
+skf,Sakirabia,N,no,-13.05395,-62.09274,Tupian
+mav,Sateré-Mawé,?,unknown,-3.63897,-56.87489,Tupian
+shp,Shipibo-Conibo,AFF,affix,-7.17105,-74.82192,Pano-Tacanan
+tpj,Tapieté,N,no,-21.41688667,-62.68397,Tupian
+tae,Tariana,N,no,0.440205,-68.904165,Arawakan
+teh,Tehuelche,N,no,-47.57963,-68.32346,Chonan
+tri,Trió,AFF,affix,2.53616,-55.759935,Cariban
+tpy,Trumai,N,no,-11.81195,-53.5717,Trumai
+cof,Tsafiki,AFF,affix,-0.21181,-79.23468,Barbacoan
+ura,Urarina,N,no,-4.44006,-75.42107,Urarina
+wba,Warao,N,no,7.508506667,-59.35276333,Warao
+pav,Wari,N,no,-10.69948,-64.56152,Chapacuran
+mtp,Wichí Lhamtés Nocten,AFF,affix,-21.987995,-63.59711,Matacoan
+yaa,Yaminahua,AFF,affix,-9.884596667,-71.59643333,Pano-Tacanan
+ame,Yanesha',N,no,-10.54539,-75.31497,Arawakan
+yuz,Yuracaré,AFF,affix,-16.74788,-65.12241,Yurakare
